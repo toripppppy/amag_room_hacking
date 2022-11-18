@@ -1,6 +1,6 @@
 // なんのURLでしょう？そうです。我が家の大事なhueの設定を好き勝手できるAPIのURLです。。
 // ここを訪れた方が優しい方だと助かります。どうかお手柔らかに。
-const url = 'http://192.168.1.55/api/KTx5FYjINaWYhj0XHMbUsY51HBgvwGV8abXjA7N-/lights/1'
+const url = '//192.168.1.55/api/KTx5FYjINaWYhj0XHMbUsY51HBgvwGV8abXjA7N-/lights/1'
 changeBG()
 
 // button onclick
